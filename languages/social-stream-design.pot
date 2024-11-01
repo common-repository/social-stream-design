@@ -1,0 +1,1422 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Social Stream Designer\n"
+"POT-Creation-Date: 2024-08-09 18:48+0530\n"
+"PO-Revision-Date: 2017-06-24 14:12+0530\n"
+"Last-Translator: \n"
+"Language-Team: Solwin Infotech <info@solwininfotech.com>\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural= n != 1;\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x:1,2;_n;_ex;_nx;"
+"esc_attr_e;esc_attr__;esc_attr_x;esc_html__;esc_html_e;esc_html_x;"
+"_n_noop:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/assets/class-feed-list-table.php:43
+msgid "Feed Name"
+msgstr ""
+
+#: admin/assets/class-feed-list-table.php:44
+msgid "Stream"
+msgstr ""
+
+#: admin/assets/class-feed-list-table.php:45
+msgid "Feed Type"
+msgstr ""
+
+#: admin/assets/class-feed-list-table.php:46
+msgid "Last Refresh Time"
+msgstr ""
+
+#: admin/assets/class-feed-list-table.php:47
+msgid "Feed Refresh Time"
+msgstr ""
+
+#: admin/assets/class-feed-list-table.php:48
+msgid "Live Status"
+msgstr ""
+
+#: admin/assets/class-feed-list-table.php:49
+msgid "Status"
+msgstr ""
+
+#: admin/assets/class-feed-list-table.php:301
+msgid "ago"
+msgstr ""
+
+#: admin/assets/class-feed-list-table.php:301
+msgid "just now"
+msgstr ""
+
+#: admin/assets/class-shortcode-list-table.php:46
+msgid "Social Stream Layout Name"
+msgstr ""
+
+#: admin/assets/class-shortcode-list-table.php:47
+msgid "Social Stream Name"
+msgstr ""
+
+#: admin/assets/class-shortcode-list-table.php:48
+msgid "Template Name"
+msgstr ""
+
+#: admin/assets/class-shortcode-list-table.php:49
+msgid "Shortcode"
+msgstr ""
+
+#: admin/assets/class-shortcode-list-table.php:121
+#: admin/assets/class-shortcode-list-table.php:193
+msgid "Edit"
+msgstr ""
+
+#: admin/assets/class-shortcode-list-table.php:122
+msgid "Duplicate"
+msgstr ""
+
+#: admin/assets/class-shortcode-list-table.php:123
+#: admin/assets/class-shortcode-list-table.php:204
+msgid "Delete"
+msgstr ""
+
+#: admin/assets/class-shortcode-list-table.php:126
+#: include/class-social-stream-main.php:450
+msgid "View"
+msgstr ""
+
+#: admin/assets/feeds/class-ssdadminfacebookfeeds.php:136
+#: admin/assets/feeds/class-ssdadmininstagramfeeds.php:116
+msgid "Authentication Missing. Please Check Authentication Setting"
+msgstr ""
+
+#: admin/assets/feeds/class-ssdadminfacebookfeeds.php:143
+#: admin/assets/feeds/class-ssdadminfacebookfeeds.php:261
+#: admin/assets/feeds/class-ssdadmintiktokfeeds.php:135
+#: admin/assets/feeds/class-ssdadmintiktokfeeds.php:138
+#: admin/assets/feeds/class-ssdadmintwitterfeeds.php:125
+#: admin/assets/feeds/class-ssdadmintwitterfeeds.php:135
+#: admin/assets/feeds/class-ssdadmintwitterfeeds.php:156
+#: admin/assets/feeds/class-ssdadmintwitterfeeds.php:192
+#: admin/assets/feeds/class-ssdadmintwitterfeeds.php:224
+msgid "Please enter"
+msgstr ""
+
+#: admin/assets/feeds/class-ssdadminfacebookfeeds.php:164
+#: admin/assets/feeds/class-ssdadminfacebookfeeds.php:280
+#: admin/assets/feeds/class-ssdadmininstagramfeeds.php:137
+#: admin/assets/feeds/class-ssdadmininstagramfeeds.php:143
+#: admin/assets/feeds/class-ssdadminpinterestfeeds.php:118
+#: admin/assets/feeds/class-ssdadmintwitterfeeds.php:184
+#: admin/assets/feeds/class-ssdadmintwitterfeeds.php:217
+#: admin/assets/feeds/class-ssdadmintwitterfeeds.php:250
+msgid "Please try again"
+msgstr ""
+
+#: admin/assets/feeds/class-ssdadminpinterestfeeds.php:110
+msgid "Please enter User ID and Board Name"
+msgstr ""
+
+#: admin/assets/feeds/class-ssdadmintiktokfeeds.php:201
+msgid "Error in getting videos of hashtag."
+msgstr ""
+
+#: admin/assets/feeds/class-ssdadmintiktokfeeds.php:204
+msgid "Error in getting profile data of hashtag."
+msgstr ""
+
+#: admin/assets/feeds/class-ssdadmintiktokfeeds.php:270
+msgid "Error in getting videos of user."
+msgstr ""
+
+#: admin/assets/feeds/class-ssdadmintiktokfeeds.php:273
+msgid "Error in getting profile data of User."
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:9 class-socialstream.php:352
+msgid "Add New Layout"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:127
+msgid "Edit Layout"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:262
+#: admin/assets/social-stream-add-layout.php:268
+msgid "Layout has been added successfully."
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:265
+#: admin/assets/social-stream-add-layout.php:283
+msgid "View Layout"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:280
+#: admin/assets/social-stream-add-layout.php:286
+msgid "Layout has been updated successfully."
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:297
+msgid "Error to update layout."
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:307
+msgid "Layout has been duplicated successfully."
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:317
+msgid "Layout has been reset successfully."
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:350
+msgid "Social Stream Layout Settings"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:353
+msgid "Show Preview"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:355
+msgid "Preview"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:361
+msgid "Reset"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:367
+msgid "Save"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:376
+msgid "General Settings"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:380
+msgid "Select Card Layout"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:384
+msgid "Layout Settings"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:388
+msgid "Card Settings"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:392
+msgid "Share Icon Settings"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:396
+msgid "Title Settings"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:400
+msgid "Content Settings"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:404
+msgid "Media Settings"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:408
+msgid "Author Content Settings"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:412
+msgid "Count Bar Settings"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:416
+msgid "Pagination Settings"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:420
+msgid "Popup Settings"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:493
+msgid "Select the feeds which you have created in feeds tab."
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:498
+msgid "Title"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:503
+msgid ""
+"Enter the layout title. This will not display on frontend it is only for "
+"the identification on layout listing page."
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:508
+msgid "Select Page for Stream"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:512
+msgid "Select Page"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:524
+msgid "Select the page for display layout"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:527
+msgid "Caution"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:528
+msgid ""
+"You are about to select the page for your layout, you will lost your page "
+"content. There is no undo. Think about it!"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:533
+msgid "Order By"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:547
+msgid ""
+"Select parameter to sort feeds. If you select \"Social media\" option then "
+"all the same social media feeds are display together."
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:552
+msgid "Order"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:563
+msgid ""
+"Ascending order from lowest to highest values ( 1,2,3; a,b,c) or Descending "
+"order from highest to lowest values (3, 2, 1; c, b, a)."
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:569
+msgid "Private Stream"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:576
+#: admin/assets/social-stream-add-layout.php:594
+#: admin/assets/social-stream-add-layout.php:613
+#: admin/assets/social-stream-add-layout.php:630
+#: admin/assets/social-stream-add-layout.php:1004
+#: admin/assets/social-stream-add-layout.php:1023
+#: admin/assets/social-stream-add-layout.php:1041
+#: admin/assets/social-stream-add-layout.php:1353
+#: admin/assets/social-stream-add-layout.php:1422
+#: admin/assets/social-stream-add-layout.php:1440
+#: admin/assets/social-stream-add-layout.php:1594
+#: admin/assets/social-stream-add-layout.php:1611
+#: admin/assets/social-stream-add-layout.php:1674
+#: admin/assets/social-stream-add-layout.php:1804
+#: admin/assets/social-stream-add-layout.php:1919
+#: admin/assets/social-stream-add-layout.php:1937
+#: admin/assets/social-stream-add-layout.php:2012
+#: admin/assets/social-stream-add-layout.php:2031
+#: admin/assets/social-stream-add-layout.php:2081
+#: admin/assets/social-stream-add-layout.php:2194
+#: admin/assets/social-stream-add-layout.php:2207
+#: admin/assets/social-stream-add-layout.php:2378
+#: admin/assets/social-stream-add-layout.php:2393
+#: admin/assets/social-stream-add-layout.php:2407
+#: admin/assets/social-stream-add-layout.php:2420
+#: admin/assets/social-stream-add-layout.php:2433
+#: admin/assets/social-stream-add-layout.php:2446
+#: admin/assets/social-stream-add-layout.php:2459
+#: admin/assets/social-stream-add-layout.php:2472
+#: admin/assets/social-stream-add-layout.php:2485
+#: admin/assets/social-stream-add-layout.php:2498
+#: admin/assets/social-stream-add-layout.php:2511
+#: admin/assets/social-stream-add-layout.php:2653
+#: admin/assets/social-stream-add-social-feed.php:423
+msgid "Yes"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:579
+#: admin/assets/social-stream-add-layout.php:597
+#: admin/assets/social-stream-add-layout.php:616
+#: admin/assets/social-stream-add-layout.php:634
+#: admin/assets/social-stream-add-layout.php:1008
+#: admin/assets/social-stream-add-layout.php:1026
+#: admin/assets/social-stream-add-layout.php:1044
+#: admin/assets/social-stream-add-layout.php:1357
+#: admin/assets/social-stream-add-layout.php:1426
+#: admin/assets/social-stream-add-layout.php:1443
+#: admin/assets/social-stream-add-layout.php:1597
+#: admin/assets/social-stream-add-layout.php:1612
+#: admin/assets/social-stream-add-layout.php:1678
+#: admin/assets/social-stream-add-layout.php:1807
+#: admin/assets/social-stream-add-layout.php:1923
+#: admin/assets/social-stream-add-layout.php:1941
+#: admin/assets/social-stream-add-layout.php:2016
+#: admin/assets/social-stream-add-layout.php:2035
+#: admin/assets/social-stream-add-layout.php:2085
+#: admin/assets/social-stream-add-layout.php:2197
+#: admin/assets/social-stream-add-layout.php:2210
+#: admin/assets/social-stream-add-layout.php:2382
+#: admin/assets/social-stream-add-layout.php:2397
+#: admin/assets/social-stream-add-layout.php:2410
+#: admin/assets/social-stream-add-layout.php:2423
+#: admin/assets/social-stream-add-layout.php:2436
+#: admin/assets/social-stream-add-layout.php:2449
+#: admin/assets/social-stream-add-layout.php:2462
+#: admin/assets/social-stream-add-layout.php:2475
+#: admin/assets/social-stream-add-layout.php:2488
+#: admin/assets/social-stream-add-layout.php:2501
+#: admin/assets/social-stream-add-layout.php:2514
+#: admin/assets/social-stream-add-layout.php:2657
+#: admin/assets/social-stream-add-social-feed.php:423
+msgid "No"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:582
+msgid "Show only for logged in users."
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:588
+msgid "Hide Stream on a Desktop"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:600
+#: admin/assets/social-stream-add-layout.php:619
+#: admin/assets/social-stream-add-layout.php:637
+#: admin/assets/social-stream-add-layout.php:1047
+#: admin/assets/social-stream-add-layout.php:2618
+#: admin/assets/social-stream-add-layout.php:2632
+#: admin/assets/social-stream-add-social-feed.php:163
+#: admin/assets/social-stream-add-social-feed.php:208
+#: admin/assets/social-stream-add-social-feed.php:225
+#: admin/assets/social-stream-add-social-feed.php:226
+#: admin/assets/social-stream-add-social-feed.php:227
+#: admin/assets/social-stream-add-social-feed.php:239
+#: admin/assets/social-stream-add-social-feed.php:261
+#: admin/assets/social-stream-add-social-feed.php:273
+#: admin/assets/social-stream-add-social-feed.php:286
+#: admin/assets/social-stream-add-social-feed.php:298
+#: admin/assets/social-stream-add-social-feed.php:331
+#: admin/assets/social-stream-add-social-feed.php:348
+#: admin/assets/social-stream-add-social-feed.php:365
+#: admin/assets/social-stream-add-social-feed.php:388
+#: admin/assets/social-stream-add-social-feed.php:395
+msgid "Note"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:601
+msgid "If you want to create mobiles specific stream only."
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:607
+msgid "Hide Stream on a Mobile"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:620
+msgid "If you want to show stream content only on desktop."
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:625
+msgid "Display Stream Meta"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:638
+msgid "Display comments, like, dislikes, views, tweets in each post."
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:643
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:697
+msgid "Select the layout which is more suitable as per your requirement."
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:720
+msgid "Drag and Drop Builder"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:732
+#: include/class-social-stream-main.php:878
+msgid "41 landing page optimization best practices"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:752
+#: include/class-social-stream-main.php:895
+msgid "Facebook"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:762
+#: include/class-social-stream-main.php:901
+msgid "Sample Image"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:774
+#: include/class-social-stream-main.php:911
+msgid "Solwin Infotech"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:777
+#: include/class-social-stream-main.php:914
+msgid "SolwinInfotech"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:779
+#: include/class-social-stream-main.php:916
+msgid "3h ago"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:818
+msgid ""
+"You can drag and drop element up and down. In layout 2 and layout 3 you can "
+"not change the position of author box."
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:832
+msgid "Layout Type"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:852
+#: admin/assets/social-stream-add-layout.php:877
+#: admin/assets/social-stream-add-layout.php:902
+#: admin/assets/social-stream-add-layout.php:928
+#: admin/assets/social-stream-add-layout.php:953
+#: admin/assets/social-stream-add-layout.php:977
+msgid "Number of Feeds in One Row"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:868
+#: admin/assets/social-stream-add-layout.php:893
+#: admin/assets/social-stream-add-layout.php:919
+#: admin/assets/social-stream-add-layout.php:944
+#: admin/assets/social-stream-add-layout.php:968
+#: admin/assets/social-stream-add-layout.php:991
+msgid "Enter the number of feeds to display in one row"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:998
+msgid "Display Share Icon"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1011
+msgid ""
+"Show/Hide share icon. With this you can share you feeds on multiple social "
+"media."
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1017
+msgid "Display Filter"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1029
+msgid "Show/Hide filter on frontend"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1035
+msgid "Display Search"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1048
+msgid "Available only for listing layouts."
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1054
+msgid "Theme Color"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1062
+msgid "Background color"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1108
+msgid "Stream Heading"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1113
+msgid ""
+"Enter the Stream title. This will display on frontend.If Leave empty to not "
+"show."
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1118
+msgid "Heading color"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1126
+msgid "Stream Sub-Heading"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1131
+msgid ""
+"Enter the Stream sub-title. This will display on frontend.If Leave empty to "
+"not show."
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1136
+msgid "Sub-Heading color"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1145
+msgid "Headings alignment"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1163
+msgid "Heading Background color"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1180
+msgid "Card Border"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1259
+msgid "Card Border Radius (px)"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1272
+msgid "Card Background Color"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1280
+msgid "Card Overlay Background Color"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1289
+msgid "Card Box Shadow"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1329
+msgid "Card Custom Class"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1334
+msgid ""
+"Enter the custom class name here, which will apply to the card and this "
+"class use for custom css which you will add from General Setting -> Custom "
+"CSS."
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1347
+msgid "Display Social Icon"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1362
+msgid "Social Share Type"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1373
+msgid "Icon"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1375
+msgid "Text"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1383
+msgid "Social Share Icon Style"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1388
+#: admin/assets/social-stream-add-layout.php:1648 class-socialstream.php:567
+msgid "Default"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1391
+msgid "Custom"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1396
+msgid "Select Icon Layout"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1416
+msgid "Display Corner Icon"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1429
+msgid "Display social icon on top, bottom, left, right corner."
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1434
+msgid "Display Sticky"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1446
+msgid "Display social icon sticky on media or author"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1452
+msgid "Display Sticky on"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1458 class-socialstream.php:995
+#: class-socialstream.php:997
+msgid "Media"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1463
+#: admin/assets/social-stream-add-layout.php:1467 class-socialstream.php:995
+#: class-socialstream.php:997
+msgid "Author"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1476
+msgid "Icon Border Radius"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1498
+msgid "Text Border Radius"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1520
+msgid "Alignment"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1540
+msgid "Select the alignment of social share icon"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1545
+msgid "Position"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1557
+msgid "Select the position of social share icon"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1562
+#: admin/assets/social-stream-add-layout.php:2223
+msgid "Color"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1570
+#: admin/assets/social-stream-add-layout.php:2232
+msgid "Background Color"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1587
+msgid "Display Title"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1607
+msgid "Post Title Maximum Line"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1622
+msgid "Display Maximum Number Of Lines"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1640
+msgid "Post Title Break Words"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1653
+msgid "Break-All"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1658
+msgid "Break-Words"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1667
+msgid "Display Title Link"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1685
+msgid "Title Font Size"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1699
+msgid "Title Color"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1709
+msgid "Title Hover Color"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1719
+msgid "Title Background Color"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1727
+msgid "Title Padding"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1768
+msgid "Title Font Weight"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1798
+msgid "Display Content"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1813
+msgid "Content Word Limit"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1820
+msgid ""
+"Enter the number of words to display in content. Leave blank if you want to "
+"display whole content."
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1827
+msgid "Content Font Size"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1840
+msgid "Content Color"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1855
+msgid "Content Background Color"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1912
+msgid "Display Feeds Without Media"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1926
+msgid "Show/Hide feeds which do not have the media."
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1931
+msgid "Display Default Image"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1944
+msgid "Enable default image for the feeds which does not have media"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1949
+msgid "Upload Default Image"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1962
+msgid "Remove Image"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1968
+msgid "Upload Image"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1980
+msgid "Upload default image"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:1985
+msgid "Margin"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2006
+msgid "Display Gallery Slider Arrows"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2019
+msgid ""
+"Show/Hide Slider navigation icons for media gallery. This option is only "
+"work for Instagram feeds."
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2025
+msgid "Gallery Slider Autoplay"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2038
+msgid ""
+"Show/Hide slider autoplay. This option is only work for Instagram feeds."
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2044
+msgid "Enter Gallery slider autoplay intervals"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2050
+msgid ""
+"Enter autoplay interval time for gallery slider in ms. This option is only "
+"work for Instagram feeds."
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2056
+msgid "Gallery Slider Speed"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2062
+msgid ""
+"Enter gallery slider speed in ms. This option is only work for Instagram "
+"feeds."
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2075
+msgid "Display Author Box"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2090
+msgid "Author Image Border Radius"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2114
+msgid "Author Box Background Color"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2121
+msgid "Author Box Title Color"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2129
+msgid "Author Box Hover Title Color"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2138
+msgid "Author Box Meta Color"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2147
+msgid "Author Box Padding"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2168
+msgid "Author Box Margin"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2188
+msgid "Display Author Screen Name"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2202
+msgid "Display Time"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2240
+msgid "Hover Color"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2329
+msgid "Bar Padding"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2350
+msgid "Bar Margin"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2372
+msgid "Display User Followers"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2387
+msgid "Display User Friends"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2402
+msgid "Display Retweet Count"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2415
+msgid "Display Reply Count"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2428
+msgid "Display Favorite Count"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2441
+msgid "Display Views Count"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2454
+msgid "Display Likes Count"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2467
+msgid "Display Pin Count"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2480
+msgid "Display Dislikes Count"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2493
+msgid "Display Comments Count"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2506
+msgid "Display Share Count"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2527
+msgid "Pagination Type"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2534
+msgid "No Pagination"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2537
+msgid "Paged"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2539
+msgid "Load More Button"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2542
+msgid "Load On Page Scroll"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2547
+msgid "Select pagination type"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2552
+msgid "Load More Button Layout"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2560
+#: admin/assets/social-stream-add-layout.php:2563
+#: admin/assets/social-stream-add-layout.php:2566
+msgid "Template"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2571
+msgid "Select load more button layout"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2581 class-socialstream.php:328
+msgid "Load More"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2587
+msgid "Load More Effect"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2603
+msgid "Select load more effect"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2608
+msgid "Number Of Posts To Display Per Page"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2619
+msgid "Select number of feeds you want to display in single page"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2624
+msgid "Maximum Posts to Display"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2633
+msgid "Select '-1' if you want to display all the feeds."
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2647
+msgid "Popup open on content click"
+msgstr ""
+
+#: admin/assets/social-stream-add-layout.php:2660
+msgid "Show/Hide popup on click of content"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:10
+#: class-socialstream.php:483
+msgid "Add New Social Feed"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:52
+msgid "Edit Social Feed"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:107
+#: admin/assets/social-stream-add-social-feed.php:127
+msgid "Feed has been updated successfully."
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:109
+#: admin/assets/social-stream-add-social-feed.php:129
+msgid "feeds added"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:139
+msgid "Error to update feed."
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:150
+msgid "Social Feed Settings"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:152
+msgid "Save Changes"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:160
+msgid "Add Feed Name"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:165
+#: admin/assets/social-stream-add-social-feed.php:202
+#: admin/assets/social-stream-add-social-feed.php:210
+#: admin/assets/social-stream-add-social-feed.php:219
+#: admin/assets/social-stream-add-social-feed.php:233
+#: admin/assets/social-stream-add-social-feed.php:255
+#: admin/assets/social-stream-add-social-feed.php:267
+#: admin/assets/social-stream-add-social-feed.php:280
+#: admin/assets/social-stream-add-social-feed.php:292
+#: admin/assets/social-stream-add-social-feed.php:300
+#: admin/assets/social-stream-add-social-feed.php:325
+#: admin/assets/social-stream-add-social-feed.php:333
+#: admin/assets/social-stream-add-social-feed.php:342
+#: admin/assets/social-stream-add-social-feed.php:350
+#: admin/assets/social-stream-add-social-feed.php:359
+#: admin/assets/social-stream-add-social-feed.php:367
+msgid "Enter"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:172
+msgid "Select Stream For Feed"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:181
+msgid "Select social stream to create feed"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:187
+#: admin/assets/social-stream-add-social-feed.php:243
+msgid "Select Feed Type"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:196
+#: admin/assets/social-stream-add-social-feed.php:249
+#: admin/assets/social-stream-add-social-feed.php:319
+#: admin/assets/social-stream-add-social-feed.php:381
+msgid "Select social stream feed type to get the feeds"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:225
+msgid "Enter Username of any public Twitter account."
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:226
+#: admin/assets/social-stream-add-social-feed.php:227
+msgid "If your twitter page URL is structured like this:"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:226
+#: admin/assets/social-stream-add-social-feed.php:227
+msgid "then the Username is"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:239
+msgid "If your List URL is structured like this"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:239
+msgid "then the List ID is actually the number at the end, so in this case"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:261
+msgid "If your page URL is structured like this"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:261
+msgid "then the Page ID is actually the number at the end, so in this case"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:273
+msgid "You can see here to get album ID."
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:273
+#: admin/assets/template/facebook-template.php:27
+#: admin/assets/template/facebook-template.php:38
+#: admin/assets/template/instagram-template.php:29
+#: admin/assets/template/twitter-template.php:40
+msgid "Click here"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:286
+msgid "If your profile page URL is structured like this"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:286
+msgid "then the User ID is actually the number at the end, so in this case"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:310
+msgid "Select"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:375
+msgid "Get Tiktok videos from"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:385
+msgid "Enter hashtag keyword"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:388
+msgid "Enter hashtag Keyword without # tag."
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:392
+msgid "Enter Username"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:395
+msgid "Enter username without @ tag."
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:399
+msgid "Feed Limit"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:402
+msgid "Feed limit control the number of feeds to fetch from the API."
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:406
+msgid "Refresh Feeds On"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:408
+msgid "Every"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:411
+msgid "Minutes"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:412
+msgid "Hours"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:413
+msgid "Days"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:414
+msgid "Weeks"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:416
+msgid "Note : It is recommended to refresh tiktok feeds every 1 day"
+msgstr ""
+
+#: admin/assets/social-stream-add-social-feed.php:420
+msgid "Moderate Feeds?"
+msgstr ""
+
+#: admin/assets/social-stream-settings-form.php:21
+#: admin/assets/social-stream-settings-form.php:62
+msgid "Social Authentication Settings"
+msgstr ""
+
+#: admin/assets/social-stream-settings-form.php:32
+msgid "Invalid Authentication! Error in following stream settings."
+msgstr ""
+
+#: admin/assets/social-stream-settings-form.php:51
+msgid " Authentication updated."
+msgstr ""
+
+#: admin/assets/template/facebook-template.php:18
+#: admin/assets/template/instagram-template.php:20
+#: admin/assets/template/twitter-template.php:31
+msgid "Settings"
+msgstr ""
+
+#: admin/assets/template/facebook-template.php:27
+msgid ""
+"To get your own 'Facebook App ID' and get your own 'Consumer Secret Key', "
+"you can follow these"
+msgstr ""
+
+#: admin/assets/template/facebook-template.php:38
+msgid "To get 'Page Access Token'"
+msgstr ""
+
+#: admin/assets/template/instagram-template.php:29
+msgid "To get 'Instagram Access Token' you can follow these"
+msgstr ""
+
+#: admin/assets/template/twitter-template.php:40
+msgid ""
+"To get your own 'Consumer Key','Consumer Secret Key','Access Token' and "
+"'Access Token Secret Key' you can follow these"
+msgstr ""
+
+#: class-socialstream.php:143
+msgid "Error"
+msgstr ""
+
+#: class-socialstream.php:143
+msgid ""
+"Social Stream Feeds shortcode not found. Please cross check your Social "
+"Stream Feeds ID."
+msgstr ""
+
+#: class-socialstream.php:351 class-socialstream.php:428
+msgid "Social Stream Layouts"
+msgstr ""
+
+#: class-socialstream.php:351
+msgid "Layouts"
+msgstr ""
+
+#: class-socialstream.php:352
+msgid "Add Social Stream Layouts"
+msgstr ""
+
+#: class-socialstream.php:353 class-socialstream.php:482
+msgid "Social Feeds"
+msgstr ""
+
+#: class-socialstream.php:355
+msgid "Add Social Feed"
+msgstr ""
+
+#: class-socialstream.php:356
+msgid "Social Authentication"
+msgstr ""
+
+#: class-socialstream.php:429
+msgid "Add New Social Stream Layout"
+msgstr ""
+
+#: class-socialstream.php:436
+msgid "Layout has been deleted successfully."
+msgstr ""
+
+#: class-socialstream.php:446
+msgid "Error to delete layout."
+msgstr ""
+
+#: class-socialstream.php:495
+msgid "Feed has been deleted successfully."
+msgstr ""
+
+#: class-socialstream.php:505
+msgid "Error to delete feed."
+msgstr ""
+
+#: class-socialstream.php:565
+msgid "Clear"
+msgstr ""
+
+#: class-socialstream.php:566
+msgid "Clear color"
+msgstr ""
+
+#: class-socialstream.php:568
+msgid "Select default color"
+msgstr ""
+
+#: class-socialstream.php:569
+msgid "Select Color"
+msgstr ""
+
+#: class-socialstream.php:570
+msgid "Color value"
+msgstr ""
+
+#: class-socialstream.php:589
+msgid "Do you want to reset data?"
+msgstr ""
+
+#: class-socialstream.php:590
+msgid "Please select social stream."
+msgstr ""
+
+#: class-socialstream.php:591
+msgid ""
+"Please enter numeric value. Fill the red border input correct and try again."
+msgstr ""
+
+#: class-socialstream.php:592
+msgid "Are you sure to delete this item?"
+msgstr ""
+
+#: class-socialstream.php:593
+msgid "Your Social Stream Layout Preview"
+msgstr ""
+
+#: class-socialstream.php:633 class-socialstream.php:648
+#: class-socialstream.php:674 class-socialstream.php:677
+msgid "Please try again for"
+msgstr ""
+
+#: class-socialstream.php:976 class-socialstream.php:978
+msgid "Left"
+msgstr ""
+
+#: class-socialstream.php:976 class-socialstream.php:978
+msgid "Right"
+msgstr ""
+
+#: class-socialstream.php:978
+msgid "Center"
+msgstr ""
+
+#: include/class-social-stream-main.php:380
+msgid "Reply"
+msgstr ""
+
+#: include/class-social-stream-main.php:387
+msgid "Retweet"
+msgstr ""
+
+#: include/class-social-stream-main.php:397
+#: include/class-social-stream-main.php:420
+msgid "Favorite"
+msgstr ""
+
+#: include/class-social-stream-main.php:430
+msgid "Comment"
+msgstr ""
+
+#: include/class-social-stream-main.php:440
+msgid "Share"
+msgstr ""
+
+#: include/class-social-stream-main.php:475
+msgid "photos"
+msgstr ""
+
+#: include/class-social-stream-main.php:491
+#: include/class-social-stream-main.php:547
+msgid "Comments"
+msgstr ""
+
+#: include/class-social-stream-main.php:496
+#: include/class-social-stream-main.php:535
+msgid "Likes"
+msgstr ""
+
+#: include/class-social-stream-main.php:515
+msgid "Pins"
+msgstr ""
+
+#: include/class-social-stream-main.php:577
+msgid ""
+"This could take up to 2-5 minutes. We are fetching the posts from your "
+"feed. Please do not close this window until it's complete."
+msgstr ""
+
+#: include/class-social-stream-main.php:831
+msgid ""
+"You haven't created any feeds yet. Please create the feed before create the "
+"layout."
+msgstr ""
+
+#: include/class-social-stream-main.php:832
+msgid "Create New Feed"
+msgstr ""
+
+#: include/class-social-stream-main.php:989
+msgid "Credentials are required to save the file."
+msgstr ""
+
+#: include/feeds/class-ssdfrontfeeds.php:182
+msgid "No feeds found"
+msgstr ""
